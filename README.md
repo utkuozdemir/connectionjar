@@ -1,4 +1,4 @@
 # README #
 
 ### Info
-This is a simple jar t check connection from Java executable.
+This is a simple jar to check connection from Java executable.
